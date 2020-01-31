@@ -1,0 +1,35 @@
+ebook_metadata:
+  title: རྡོ་རྗེའི་ཚིག་བདུན་གསོལ་འདེབས་ཀྱི་དམིགས་ཁྲིད་ཅུང་ཟད་སྨོས་པ་ཟབ་ལམ་ཡོངས་རྫོགས་བཞུགས་སོ།
+  authors:
+  - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  sku: SHE-DKR-09
+  layers:
+  - book_title
+  - author
+web_metadata:
+  title:
+    en: The Complete Profound Path:A Short Meditation Instruction on the Seven-Line
+      Vajra Supplication
+    bo: རྡོ་རྗེའི་ཚིག་བདུན་གསོལ་འདེབས་ཀྱི་དམིགས་ཁྲིད་ཅུང་ཟད་སྨོས་པ་ཟབ་ལམ་ཡོངས་རྫོགས་བཞུགས་སོ།
+  collection:
+    en: Dilgo Khyentse Series–  Book 9
+    bo: དིལ་མགོ་མཁྱེན་བཙེ་གསུང་འབུམ།–  དེབ། ༩
+  author:
+    en: Kyabje Dilgo Khyentse Rinpoche
+    bo: ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-DKR-09
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-DKR-09.epub
+  description:
+    en: ''
+    bo: ''
