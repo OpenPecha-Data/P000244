@@ -1,11 +1,13 @@
-ebook_metadata:
+id: P000244
+initial_creation_type: ebook
+source_metadata:
   title: རྡོ་རྗེའི་ཚིག་བདུན་གསོལ་འདེབས་ཀྱི་དམིགས་ཁྲིད་ཅུང་ཟད་སྨོས་པ་ཟབ་ལམ་ཡོངས་རྫོགས་བཞུགས་སོ།
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-09
   layers:
   - book_title
   - author
+  id: SHE-DKR-09
 web_metadata:
   title:
     en: The Complete Profound Path:A Short Meditation Instruction on the Seven-Line
